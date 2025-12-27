@@ -1,4 +1,4 @@
-# ![SVG Lens](logo-dark.svg)
+# ![SVG Lens](logo/logo-light.svg)
 
 **SVG Lens** — High-fidelity raw XML source code inspector and rendering engine.
 
@@ -41,3 +41,4 @@ Distributed under the **MIT License**. See `LICENSE` for more information.
 ---
 
 Built with ❤️ for the Open Source Community.
+
